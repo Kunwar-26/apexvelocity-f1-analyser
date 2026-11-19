@@ -1,0 +1,6 @@
+{
+  "name": "ApexVelocity - F1 Telemetry & Circuit Speed Mapping",
+  "description": "Interactive Formula 1 circuit mapping and speed telemetry visualizer using FastF1 coordinates, colormap speed heatmaps, and braking zone analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

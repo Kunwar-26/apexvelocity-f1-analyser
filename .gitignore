@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.vite/
+fastf1_cache/
+.idea/
+.vscode/
+Thumbs.db
+*.pem
+*.key
